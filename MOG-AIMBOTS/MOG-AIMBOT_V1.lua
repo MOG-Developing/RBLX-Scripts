@@ -201,4 +201,4 @@ RunService.RenderStepped:Connect(function()
 end)
 
 print("MOG-AIMBOT_V1 Loaded")
-print("Thank you for using MOG-AIMBOT_V1! Made by @misterofgames| MOG-Development")
+print("Thank you for using MOG-AIMBOT_V1! Made by @misterofgamesyt | MOG-Development")
