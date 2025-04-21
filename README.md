@@ -11,7 +11,7 @@ ALL OF THE LOADSTRINGS:
 - **MOG-FLINGER_V1**: <pre> ``loadstring(game:HttpGet("https://raw.githubusercontent.com/MOG-Developing/RBLX-Scripts/refs/heads/main/MOG-FLINGERS/MOG-FLINGER_V1.lua",true))()`` </pre>
 - **MOG-FLINGER_V2**: <pre> ``loadstring(game:HttpGet("https://pastebin.com/raw/6eGeBQqD",true))()`` </pre> (pastebin becouse it didn't work with github)
 - **MOG-FLINGER_V3**: <pre> ``loadstring(game:HttpGet("https://pastebin.com/raw/YV1VmGUw",true))()`` </pre> (pastebin becouse it didn't work with github)
-- **MOG-FLINGER_V4**: <pre> ``loadstring(game:HttpGet("https://pastebin.com/raw/sedZLrVz",true))()`` </pre> (pastebin becouse it didn't work with github)
+- **MOG-FLINGER_V4**: <pre> `` loadstring(game:HttpGet("https://pastebin.com/raw/wDeNZkX6",true))()`` </pre> (pastebin becouse it didn't work with github)
 
 
 ---
@@ -81,6 +81,18 @@ ALL OF THE LOADSTRINGS:
 
 **MOG-AIMBOT_V1**: ![image](https://github.com/user-attachments/assets/c81b474a-4620-4355-88cd-049518bfee90)
 
+**MOG-AIMBOT_V2**: ![image](https://github.com/user-attachments/assets/18b1eaf6-fd73-463b-a6db-9425273815a6)
+
+**MOG-FLINGER_V1**: ![image](https://github.com/user-attachments/assets/f21ef9b7-4ac4-45b6-be8b-abd9ac8713d4)
+
+**MOG-FLINGER_V2**: ![image](https://github.com/user-attachments/assets/0888e18f-a1e3-48a9-974f-5c4df75c38ff)
+
+**MOG-FLINGER_V3**: ![image](https://github.com/user-attachments/assets/a214735b-0f3e-4ac4-a283-31db942bcbdb)
+
+**MOG-FLINGER_V4**: ![image](https://github.com/user-attachments/assets/70ee5fd0-10e5-4307-a7bc-38d22213c0d0)
 
 
 
+
+**WARNING: DO NOT USE IT FOR HARMFUL AND RULE BREAKING PURPOSES!**
+More stuff coming soon!
