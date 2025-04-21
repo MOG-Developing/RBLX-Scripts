@@ -406,5 +406,5 @@ while true do
     end
 end
 
-print("MOG-AIMBOT_V2 LOADED!"
-print("THANKS FOR USING!!❤️"
+print("MOG-AIMBOT_V2 LOADED!")
+print("THANKS FOR USING!!❤️")
