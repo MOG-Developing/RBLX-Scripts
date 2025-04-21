@@ -90,7 +90,7 @@ Frame.Active = true
 Frame.Draggable = true
 
 Title.Parent = Frame
-Title.Text = "MOG-AIMBOT V1 (by @misterofgames_yt)"
+Title.Text = "MOG-AIMBOT V1 (by MOG-Developing)"
 Title.Size = UDim2.new(1, 0, 0, 30)
 Title.BackgroundColor3 = Color3.new(0.2, 0.2, 0.2)
 Title.TextColor3 = Color3.new(1, 1, 1)
