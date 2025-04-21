@@ -72,7 +72,14 @@ ALL OF THE LOADSTRINGS:
 - Fling power: 5000 to 15000
 - Target: single, dual, quad
 - Jump spam (on/off) (aka in some games you fling someone and you get stuck in a chair)
-- Clean dark purple ui
+- Clean dark purple ui.
+
+---
+
+
+# PHOTOS:
+
+**MOG-AIMBOT_V1**: ![image](https://github.com/user-attachments/assets/c81b474a-4620-4355-88cd-049518bfee90)
 
 
 
