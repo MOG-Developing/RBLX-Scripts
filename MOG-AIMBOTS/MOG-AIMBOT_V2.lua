@@ -408,3 +408,4 @@ end
 
 print("MOG-AIMBOT_V2 LOADED!")
 print("THANKS FOR USING!!❤️")
+print("Made by @misterofgames_yt | MOG-Developing")
