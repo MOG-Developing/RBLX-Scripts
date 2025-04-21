@@ -183,7 +183,7 @@ Corner.Parent = Frame
 
 local Title = Instance.new("TextLabel")
 Title.Parent = Frame
-Title.Text = "MOG-AIMBOT_V2 made by MOG-Developing"
+Title.Text = "MOG-AIMBOT_V2 by MOG-Developing"
 Title.Size = UDim2.new(1, 0, 0, 40)
 Title.Position = UDim2.new(0, 0, 0, 0)
 Title.BackgroundColor3 = Color3.fromRGB(40, 0, 60)
