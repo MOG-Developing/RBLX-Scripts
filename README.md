@@ -45,6 +45,9 @@ ALL OF THE LOADSTRINGS:
 - MULTI-TARGET (FALSE/TRUE)
 - ESP COLOR (there are alot of colors)
 
+**MOG-AIMBOT_V2**:
+- 
+
 **MOG-FLINGER_V1**:
 - Custom Keybinds/Hotkeys
 - Target Time: 3s 5s 10s
@@ -83,6 +86,8 @@ ALL OF THE LOADSTRINGS:
 **MOG-AIMBOT_V1**: ![image](https://github.com/user-attachments/assets/c81b474a-4620-4355-88cd-049518bfee90)
 
 **MOG-AIMBOT_V2**: ![image](https://github.com/user-attachments/assets/18b1eaf6-fd73-463b-a6db-9425273815a6)
+
+**MOG-AIMBOT_V3**: <img width="358" height="646" alt="image" src="https://github.com/user-attachments/assets/fc4d228d-a457-4932-a9e5-15cc3c2acd86" />
 
 **MOG-FLINGER_V1**: ![image](https://github.com/user-attachments/assets/f21ef9b7-4ac4-45b6-be8b-abd9ac8713d4)
 
