@@ -45,8 +45,15 @@ ALL OF THE LOADSTRINGS:
 - MULTI-TARGET (FALSE/TRUE)
 - ESP COLOR (there are alot of colors)
 
-**MOG-AIMBOT_V2**:
-- 
+**MOG-AIMBOT_V3**:
+- Made 360 FOV the max.
+- Improved team checks
+- Improved MultiTarget
+- Added Legit Mode
+- Added autoshoot and a cps setting
+- Added movement predictions
+- Added full head mode
+- Added bullet detection mode
 
 **MOG-FLINGER_V1**:
 - Custom Keybinds/Hotkeys
