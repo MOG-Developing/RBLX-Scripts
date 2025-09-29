@@ -12,6 +12,7 @@ ALL OF THE LOADSTRINGS:
 - **MOG-AIMBOT_V1**: <pre> ``loadstring(game:HttpGet("https://raw.githubusercontent.com/MOG-Developing/RBLX-Scripts/refs/heads/main/MOG-AIMBOTS/MOG-AIMBOT_V1.lua",true))()`` </pre>
 - **MOG-AIMBOT_V2**: <pre> ``loadstring(game:HttpGet("https://pastebin.com/raw/JBuFH23Y",true))()`` </pre> (pastebin becouse it didn't work with github)
 - **MOG-AIMBOT_V3**: <pre> ``loadstring(game:HttpGet("https://raw.githubusercontent.com/MOG-Developing/RBLX-Scripts/refs/heads/main/MOG-AIMBOTS/MOG-AIMBOT_V3.lua",true))()`` </pre>
+- **MOG-AIMBOT_V4**: <pre> ``loadstring(game:HttpGet("https://raw.githubusercontent.com/MOG-Developing/RBLX-Scripts/refs/heads/main/MOG-AIMBOTS/MOG-AIMBOT_V4.lua",true))()`` </pre>
 - **MOG-FLINGER_V1**: <pre> ``loadstring(game:HttpGet("https://raw.githubusercontent.com/MOG-Developing/RBLX-Scripts/refs/heads/main/MOG-FLINGERS/MOG-FLINGER_V1.lua",true))()`` </pre>
 - **MOG-FLINGER_V2**: <pre> ``loadstring(game:HttpGet("https://pastebin.com/raw/6eGeBQqD",true))()`` </pre> (pastebin becouse it didn't work with github)
 - **MOG-FLINGER_V3**: <pre> ``loadstring(game:HttpGet("https://pastebin.com/raw/YV1VmGUw",true))()`` </pre> (pastebin becouse it didn't work with github)
@@ -58,6 +59,13 @@ ALL OF THE LOADSTRINGS:
 - Added full head mode
 - Added bullet detection mode
 
+**MOG-AIMBOT_V4**:
+- Bug fixes
+- Improved every check
+- Resized GUI
+- Removed bugged/broken features
+- Improved other stuff
+
 **MOG-FLINGER_V1**:
 - Custom Keybinds/Hotkeys
 - Target Time: 3s 5s 10s
@@ -98,6 +106,8 @@ ALL OF THE LOADSTRINGS:
 **MOG-AIMBOT_V2**: ![image](https://github.com/user-attachments/assets/18b1eaf6-fd73-463b-a6db-9425273815a6)
 
 **MOG-AIMBOT_V3**: <img width="358" height="646" alt="image" src="https://github.com/user-attachments/assets/fc4d228d-a457-4932-a9e5-15cc3c2acd86" />
+
+**MOG-AIMBOT_V3**: <img width="353" height="501" alt="image" src="https://github.com/user-attachments/assets/c9f44ba7-d51f-44f1-bf45-1b958435d914" />
 
 **MOG-FLINGER_V1**: ![image](https://github.com/user-attachments/assets/f21ef9b7-4ac4-45b6-be8b-abd9ac8713d4)
 
